@@ -146,3 +146,19 @@ h2{
      color: #eaf6f6;
      font-size: 0.75rem;
  }
+ @media(max-width:600px){
+   .top-container{
+       position: static;
+   }
+   .stc{
+    position: relative;
+    width: 70%;
+    
+}
+.bottom-cloud{
+     position: relative;
+     z-index: 0;
+    left:50%;
+}
+
+ }
