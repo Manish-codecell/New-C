@@ -94,7 +94,9 @@ h2{
 }
 .skills{
     height: auto;
+    
 }
+
 .para{
     text-align: right;
 }
@@ -148,7 +150,7 @@ h2{
  }
  @media(max-width:600px){
    .top-container{
-       position: static;
+    
    }
    .stc{
     position: relative;
@@ -156,9 +158,16 @@ h2{
     
 }
 .bottom-cloud{
+     left: 100px;
      position: relative;
-     z-index: 0;
-    left:50%;
+     z-index: 1;
+     
+     
 }
-
+.comp{
+    margin-top: 10%;
+}
+.chillies{
+    margin-top: 10%;
+}
  }
